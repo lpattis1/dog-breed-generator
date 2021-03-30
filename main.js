@@ -124,6 +124,13 @@ function generateDogs(){
             description: "The Pug is often described as a lot of dog in a small space. These sturdy, compact dogs are a part of the American Kennel Club’s Toy group, and are known as the clowns of the canine world because they have a great sense of humor and like to show off."
             
         },
+        
+         {
+            img: "https://i.ibb.co/gDB6xKN/316-3167317-miniature-schnauzer.png",
+            breed: "Mini Schnauzer",
+            description: "The Miniature Schnauzer dog breed has it all in one small package: intelligence, affection, an extroverted temperament, humor, and a personality that’s twice as big as their bodies. Throw in that walrus mustache and quivering enthusiasm, and they’ll make you laugh every day."
+            
+        }
 
     
     ];
